@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Web developer And CP enthusiast</h3>
 
 
-- 🔭 I’m currently working on **Artificial Intelligence**
-
 - 🌱 I’m currently learning **Machine learning**
 
 - 👯 I’m looking to collaborate on **Interesting Projects or Hackhathons**
